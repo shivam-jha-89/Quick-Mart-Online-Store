@@ -35,7 +35,7 @@ EzyShop is a user-friendly platform that connects you to your favourite local st
 
 ## 👩‍💻 Live demo 
 
-Visit https://ezyshopz.vercel.app to see the live demo!
+Visit https://quick-mart-online-store.vercel.app/ to see the live demo!
 
 ## ✨ Project Structure
 

@@ -15,7 +15,7 @@ If you discover a security vulnerability in EzyShop, we encourage you to report 
 
 ### How to Report
 
-- Please report vulnerabilities by emailing us at **ezyshop@gmail.com**. Include as much detail as possible to help us identify and fix the issue swiftly.
+- Please report vulnerabilities by emailing us at **Shivam45jha@gmail.com**. Include as much detail as possible to help us identify and fix the issue swiftly.
 - Do not share the vulnerability publicly until it has been addressed and a patch is available.
 
 ## Security Updates
